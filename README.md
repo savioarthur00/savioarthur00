@@ -1,7 +1,7 @@
 <h1 align="center"> Sávio Arthur Cavalcanti Claudino</h1>
 <h3 align="center">Desenvolvedor Backend Java Júnior</h3>
 
-- 🔭Projeto atual em desenvolvimento - [FisioApp](https://github.com/savioarthur00/Api-RestFull-FisioApp)
+- 🔭Projeto atual em desenvolvimento - [FisioApp](https://github.com/savioarthur00/Fisio-App-GraphQl)
 - Lingagem de dominio: Java
 - Framework: SpringBoot
 <h3 align="left">Linguagens e frameworks:</h3>
