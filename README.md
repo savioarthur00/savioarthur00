@@ -1,5 +1,5 @@
 <h1 align="center"> Sávio Arthur Cavalcanti Claudino</h1>
-<h3 align="center">Desenvolvedor Backend Java Júnior</h3>
+<h3 align="center">Desenvolvedor Júnior</h3>
 
 - 🔭Projeto atual em desenvolvimento: Projetos com Python
 - Lingagem de dominio: Python e Java
